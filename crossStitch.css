@@ -594,6 +594,15 @@ ul#notes_thread li { padding: 5px 10px; }
 /* Styling Buttons */
 .notes_content a:hover.notes_nav_page,.notes_content a:hover#notes_new_thread,#finger button:hover { background: #eee; }
 
+/* Edit Page */
+#edit_textarea {
+	width:50%;
+	margin-bottom: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 1em;
+}
+
 /* Secrets */
 .secret { margin: 5px 0; }
 .secret .secret_id { font-style: italic; font-weight: bold; }
